@@ -7,3 +7,5 @@ Me trying to learn GitHub Basics...
 3.  Install git: https://www.atlassian.com/git/tutorials/install-git
 
 ## Aaditya Kumar Mittal - You cannot say to the sun more sun or to the rain less rain.
+
+4. Have Fun.
